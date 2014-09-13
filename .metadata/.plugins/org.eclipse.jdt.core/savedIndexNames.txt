@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/dalieu/Android-Development/adt-bundle-mac-x86_64-20140702/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3610625216.index
+3238018241.index
