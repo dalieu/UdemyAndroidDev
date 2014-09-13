@@ -47,6 +47,8 @@ public class SICalculatorActivity extends Activity implements SeekBar.OnSeekBarC
 		setContentView(R.layout.sicalculator);
 		
 		// create member vars
+		// TBD: I wonder if there's a way to make it so that when you select
+		//		an edit text, it clears the previous text for you?
 		editTextPrincipal = (EditText) this.findViewById(R.id.editTextPrincipal);
 		editTextInterestRate = (EditText) this.findViewById(R.id.editTextInterestRate);
 		textYears = (TextView) this.findViewById(R.id.textYears);
