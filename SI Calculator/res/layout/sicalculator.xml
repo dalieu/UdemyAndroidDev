@@ -17,7 +17,7 @@
         android:layout_alignRight="@+id/seekBarYears"
         android:ems="10"
         android:inputType="numberDecimal"
-        android:text="Principal Amount ($)" >
+        android:hint="Principal Amount ($)" >
 
         <requestFocus />
     </EditText>
@@ -31,7 +31,7 @@
         android:layout_below="@+id/editTextPrincipal"
         android:layout_marginTop="47dp"
         android:ems="10"
-        android:text="Interest Rate (%)" />
+        android:hint="Interest Rate (%)" />
 
     <Button
         android:id="@+id/buttonCalculate"
